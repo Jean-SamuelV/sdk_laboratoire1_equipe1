@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDK_Laboratoire1", "SDK_Laboratoire1\SDK_Laboratoire1.csproj", "{2FAB54CC-1D38-484E-8778-944FF1F5891C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrairieConversionNote", "LibrairieConversionNote\LibrairieConversionNote.csproj", "{43137515-6CBA-4DEC-890F-C9EBA3277258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FAB54CC-1D38-484E-8778-944FF1F5891C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FAB54CC-1D38-484E-8778-944FF1F5891C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FAB54CC-1D38-484E-8778-944FF1F5891C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FAB54CC-1D38-484E-8778-944FF1F5891C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43137515-6CBA-4DEC-890F-C9EBA3277258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43137515-6CBA-4DEC-890F-C9EBA3277258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43137515-6CBA-4DEC-890F-C9EBA3277258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43137515-6CBA-4DEC-890F-C9EBA3277258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95300408-32AC-4652-9B3B-EE6A47660407}
+	EndGlobalSection
+EndGlobal
