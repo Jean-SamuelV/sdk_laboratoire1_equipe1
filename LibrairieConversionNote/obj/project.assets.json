@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jonat\\.nuget\\packages\\": {}
+    "C:\\Users\\jean-\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\InstitutGrasset\\Session2\\SDK\\SDK_Laboratoire1\\sdk_laboratoire1_equipe1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
+      "projectUniqueName": "C:\\Users\\jean-\\source\\repos\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
       "projectName": "LibrairieConversionNote",
-      "projectPath": "C:\\InstitutGrasset\\Session2\\SDK\\SDK_Laboratoire1\\sdk_laboratoire1_equipe1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
-      "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "C:\\InstitutGrasset\\Session2\\SDK\\SDK_Laboratoire1\\sdk_laboratoire1_equipe1\\LibrairieConversionNote\\obj\\",
+      "projectPath": "C:\\Users\\jean-\\source\\repos\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
+      "packagesPath": "C:\\Users\\jean-\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jean-\\source\\repos\\SDK_Laboratoire1\\LibrairieConversionNote\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jean-\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

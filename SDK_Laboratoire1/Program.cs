@@ -7,14 +7,14 @@ String reponse = "";
 while (choixvalide == false)
 {
     Console.Write("Conversion a faire (options disponible: NOTE ou QUITTER): ");
-    reponse = Console.ReadLine().ToUpper();
+    reponse = Console.ReadLine().ToUpper().Trim();
     if (reponse == "NOTE")
     {
         bool notecorrect = false;
         while (notecorrect == false)
         {
             Console.Write("Conversion de Note: ");
-            string notetotranslate = Console.ReadLine().ToUpper();
+            string notetotranslate = Console.ReadLine().ToUpper().Trim();
             ConversionAlphaToNote noteachanger = new ConversionAlphaToNote(notetotranslate);
             string final = noteachanger.transformer(notetotranslate);
             Console.WriteLine($"Note traduite: {final}");
