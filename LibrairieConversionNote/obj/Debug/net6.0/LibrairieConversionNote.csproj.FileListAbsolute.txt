@@ -10,3 +10,15 @@ C:\Users\jean-\source\repos\SDK_Laboratoire1\LibrairieConversionNote\obj\Debug\n
 C:\Users\jean-\source\repos\SDK_Laboratoire1\LibrairieConversionNote\obj\Debug\net6.0\refint\LibrairieConversionNote.dll
 C:\Users\jean-\source\repos\SDK_Laboratoire1\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.pdb
 C:\Users\jean-\source\repos\SDK_Laboratoire1\LibrairieConversionNote\obj\Debug\net6.0\ref\LibrairieConversionNote.dll
+C:\InstitutGrasset\Session2\SDK\SDK_Laboratoire1\sdk_laboratoire1_equipe1\LibrairieConversionNote\bin\Debug\net6.0\LibrairieConversionNote.deps.json
+C:\InstitutGrasset\Session2\SDK\SDK_Laboratoire1\sdk_laboratoire1_equipe1\LibrairieConversionNote\bin\Debug\net6.0\LibrairieConversionNote.dll
+C:\InstitutGrasset\Session2\SDK\SDK_Laboratoire1\sdk_laboratoire1_equipe1\LibrairieConversionNote\bin\Debug\net6.0\LibrairieConversionNote.pdb
+C:\InstitutGrasset\Session2\SDK\SDK_Laboratoire1\sdk_laboratoire1_equipe1\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.csproj.AssemblyReference.cache
+C:\InstitutGrasset\Session2\SDK\SDK_Laboratoire1\sdk_laboratoire1_equipe1\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\InstitutGrasset\Session2\SDK\SDK_Laboratoire1\sdk_laboratoire1_equipe1\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.AssemblyInfoInputs.cache
+C:\InstitutGrasset\Session2\SDK\SDK_Laboratoire1\sdk_laboratoire1_equipe1\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.AssemblyInfo.cs
+C:\InstitutGrasset\Session2\SDK\SDK_Laboratoire1\sdk_laboratoire1_equipe1\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.csproj.CoreCompileInputs.cache
+C:\InstitutGrasset\Session2\SDK\SDK_Laboratoire1\sdk_laboratoire1_equipe1\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.dll
+C:\InstitutGrasset\Session2\SDK\SDK_Laboratoire1\sdk_laboratoire1_equipe1\LibrairieConversionNote\obj\Debug\net6.0\refint\LibrairieConversionNote.dll
+C:\InstitutGrasset\Session2\SDK\SDK_Laboratoire1\sdk_laboratoire1_equipe1\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.pdb
+C:\InstitutGrasset\Session2\SDK\SDK_Laboratoire1\sdk_laboratoire1_equipe1\LibrairieConversionNote\obj\Debug\net6.0\ref\LibrairieConversionNote.dll

@@ -1,6 +1,6 @@
 ﻿using LibrairieConversionNote;
 using System;
-
+//Equipe 1 : Jonathan Amaral , Jonathan Larouche, Jean-Samuel Verret, Gabriel Laliberté
 bool choixvalide = false;
 List<string> listenotes = new List<string>() { "A", "B", "C", "D", "E", "F", "G" };
 String reponse = "";
